@@ -12,10 +12,12 @@
 
 5. **Interpretation Variability**: Variations in sign language interpretation across regions and individuals add another layer of complexity to the problem, demanding robust and adaptable models that can handle different sign language styles and idiosyncrasies.
 
-<div>
-    <img src="Pictures/Slide6.PNG"  width="200" />
-    <img src="Pictures/Slide7.PNG" width="200" />
+<div style="display: flex;">
+    <img src="Pictures/Slide6.PNG" style="flex: 1;" />
+    <img src="Pictures/Slide7.PNG"  style="flex: 1;" />
 </div>
+
+
 ## MediaPipe
 
 MediaPipe is an open-source framework developed by Google that provides a customizable pipeline for building various types of real-time multimedia processing applications. It offers a wide range of pre-built components and models for tasks such as hand tracking, pose estimation, face detection, object tracking, and more.
